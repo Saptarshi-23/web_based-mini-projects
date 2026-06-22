@@ -1,1 +1,1 @@
-# This repo contains personal small/mini projects that are made using HTML,CSS,JS mainly unless otherwise.
+## This repo contains personal small/mini projects that are made using HTML,CSS,JS mainly.
